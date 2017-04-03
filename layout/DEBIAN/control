@@ -1,0 +1,10 @@
+Package: com.cabralcole.quicknowplaying
+Name: QuickNowPlaying
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Quick now playing alerts.
+Maintainer: cole cabral
+Author: cole cabral
+Section: Addons (Activator)
+Icon: file:///Library/Activator/Listeners/com.cabralcole.quicknowplaying/Icon-small@2x.png
